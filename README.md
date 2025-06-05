@@ -2,7 +2,8 @@
 
 
 - 🔭 hoje trabalho como auxiliar de expedição ...
-- 🌱 estudando progamação ...
+- 🌱 estudando progamação, Engenharia de software.
+  
 
 <picture>
   <source
